@@ -1,0 +1,1 @@
+Only Paint.py that works right now, main.py should take in the number and the neural network is supposed to guess the number
